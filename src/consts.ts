@@ -1,9 +1,9 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'watatsumi23 blog'
+export const SITE_TITLE = 'Archives of the Gap'
 export const SITE_DESCRIPTION =
-	'A simple theme for personal blog sites, created for Astro framework'
+	"This blog is my digital laboratory. It's the logbook where I document my practices, experiments, and findings in the fascinating world of penetration testing."
 
 // If you deploy to a subdirectory, set the `WEBSITE_BASE` here.
 // e.g. '/blog' if you are deploying to example.com/blog
@@ -13,19 +13,19 @@ export const SITE_BASE = '/'
 export const SocialLinks = [
 	{
 		name: 'GitHub',
-		url: 'https://github.com/yashjawale',
+		url: 'https://github.com/watatsumi23',
 	},
 	{
 		name: 'LinkedIn',
-		url: 'https://www.linkedin.com/in/yashjawale/',
+		url: 'www.linkedin.com/in/felipe-de-jesus-perez-lopez-b9a043264',
 	},
 	{
 		name: 'X / Twitter',
-		url: 'https://twitter.com/imyashjawale',
+		url: 'https://twitter.com/',
 	},
 	{
 		name: 'Instagram',
-		url: 'https://instagram.com/imyashjawale',
+		url: 'https://instagram.com/',
 	},
 ]
 
